@@ -1,0 +1,5 @@
+{
+	"codigo_uf": "types.VARCHAR(2)",
+	"sigla": "types.VARCHAR(200)",
+	"uf": "types.VARCHAR(40)",
+	"arquivo": "types.VARCHAR(50)"}

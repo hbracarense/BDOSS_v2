@@ -1,0 +1,2 @@
+DROP SCHEMA IF EXISTS principal CASCADE;
+CREATE SCHEMA principal;
