@@ -1,0 +1,63 @@
+﻿codigo_equipe;sigla_equipe;nome_equipe
+01;ESF;Equipe de Saúde da Família
+02;ESFSB M1;ESF com Saúde Bucal - Modalidade I
+03;ESFSB M2;ESF com Saúde Bucal - Modalidade II
+04;EACS;Equipe de Agentes Comunitários de Saúde
+10;EACSSB_M1;Equipe Agentes Comunitários com Saúde Bucal - MI
+11;EACSSB_M2;Equipe Agentes Comunitários com Saúde Bucal - MII
+12;ESFR;Equipe de Saúde da Família Ribeirinha
+13;ESFRSB_MI;ESF Ribeirinha com Saúde Bucal MI
+14;ESFF;Equipe de Saúde da Família Fluvial
+15;ESFFSB;ESF Fluvial com Saúde Bucal
+16;EAB1;Equipe de Atenção Básica tipo I
+17;EAB2;Equipe de Atenção Básica tipo II
+18;EAB3;Equipe de Atenção Básica tipo III
+19;EAB1SB;Equipe de Atenção Básica tipo I com Saúde Bucal
+20;EAB2SB;Equipe de Atenção Básica tipo II com Saúde Bucal
+21;EAB3SB;Equipe de Atenção Básica tipo III com Saúde Bucal
+24;ESF1;Estratégia de Saúde da Família tipo I
+25;ESF1SB_M1;ESF tipo I com Saúde Bucal modalidade I
+26;ESF1SB_M2;ESF tipo I com Saúde Bucal modalidade II
+27;ESF2;Estratégia de Saúde da Família tipo II
+28;ESF2SB_M1;ESF tipo II com Saude Bucal Modalidade I
+29;ESF2SB_M2;ESF tipo II com Saude Bucal Modalidade II
+30;ESF3;Estratégia de Saúde da Família tipo III
+31;ESF3SB_M1;ESF tipo III com Saúde Bucal modalidade I
+32;ESF3SB_M2;ESF tipo III com Saúde Bucal modalidade II
+33;ESF4;Estratégia de Saúde da Família tipo IV
+34;ESF4SB_M1;ESF tipo IV com Saúde Bucal modalidade I
+35;ESF4SB_M2;ESF tipo IV com Saúde Bucal modalidade II
+36;ESFTRANS;ESF Transitória
+37;ESFTRANSSB_M1;ESF Transitória com Saúde Bucal MI
+38;ESFTRANSSB_M2;ESF Transitória com Saúde Bucal MII
+39;ESFRSB_MII;ESF Ribeirinha com Saúde Bucal MII
+43;ESB MI;Equipe de Saúde Bucal modalidade I
+44;ESB MII;Equipe de Saúde Bucal modalidade II
+06;NASF1;Núcleo de Apoio a Saúde da Família modalidade 1
+07;NASF2;Núcleo de Apoio à Saúde da Família modalidade 2
+45;NASF3;Núcleo de Apoio à Saúde da Família modalidade 3
+40;ECR MI;Equipe dos Consultórios na Rua Modalidade I
+41;ECR MII;Equipe dos Consultórios na Rua Modalidade II
+42;ECR MIII;Equipe dos Consultórios na Rua Modalidade III
+05;EPEN;Equipe de Atenção à Saúde do Sistema Penitenciário
+49;EAP;Equipe de Atenção Prisional
+50;EABP1;Eq Atenção Básica Prisional tipo I
+51;EABP1SM;Eq Atenção Básica Prisional tipo I com Saúde Mental
+52;EABP2;Eq Atenção Básica Prisional tipo II
+53;EABP2SM;Eq Atenção Básica Prisional tipo II com saúde mental
+54;EABP3;Eq Atenção Básica Prisional tipo III
+58;EMAESM1;Eq. multiprof. Atenção espec. saúde mental M I
+59;EMAESM2;Eq. multiprof. atenção espec. saúde mental M II
+60;EMAESM3;Eq. multiprof. atenção espec. saúde mental M III
+08;EMSI;Equipe Multidisciplinar de Saúde Indígena
+22;EMAD tipo I;Equipe Multidisciplinar de Atenção Domiciliar Tipo I
+23;EMAP;Equipe Multidisciplinar de Apoio
+46;EMAD tipo II;Equipe Multidisciplinar de Atenção Domiciliar Tipo II
+47;EAD;Equipe de Cuidados Domiciliares
+70;eSF;Equipe de Saúde da Família
+71;eSB;Equipe de Saúde Bucal
+72;eNASF;AP - Equipe do Núcleo Ampliado de Saúde da Família e Atenção Primária
+73;eCR;Equipe dos Consultórios na Rua
+74;eAPP;Equipe de Atenção Primária Prisional
+75;eMAESM;Equipe Multiprofissional Atenção Especializada em Saúde Mental
+76;eAP;Equipe de Atenção Primária

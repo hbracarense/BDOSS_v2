@@ -1,0 +1,84 @@
+﻿codigo_forma_contratacao_profissionais,forma_contratacao_profissionais
+0,Outros
+01,Vínculo empregatício
+010000,Vínculo empregatício
+010100,Vínculo empregatício estatutário efetivo
+010101,Vínculo empregatício estatutário efetivo - servidor próprio
+010102,Vínculo empregatício estatutário efetivo - servidor cedido
+010200,Vínculo empregatício de empregado público celetista
+010201,Vínculo empregatício de empregado público celetista
+010202,Vínculo empregatício de empregado público celetista - próprio
+010203,Vínculo empregatício de empregado público celetista - cedido
+010300,Vínculo empregatício temporário com prazo/período determinado
+010301,Vínculo empregatício temporário com prazo/período determinado - público
+010302,Vínculo empregatício temporário com prazo/período determinado - privado
+010400,Vínculo empregatício em cargo comissionado
+010401,Vínculo empregatício em cargo comissionado
+010402,Vínculo empregatício em cargo comissionado
+010403,Vínculo empregatício em cargo comissionado - servidor público próprio
+010404,Vínculo empregatício em cargo comissionado - servidor público cedido
+010405,Vínculo empregatício em cargo comissionado - sem vínculo com o setor público
+010500,Vínculo empregatício - celetista
+010501,Vínculo empregatício - celetista
+010502,Vínculo empregatício - celetista
+010503,Vínculo empregatício - celetista
+010504,Vínculo empregatício - celetista
+02,Autônomo
+020000,Autônomo
+020100,Autônomo
+020200,Autônomo
+020300,Autônomo
+020400,Autônomo
+020500,Autônomo
+020600,Autônomo
+020700,Autônomo
+020800,Autônomo
+020900,Autônomo - pessoa jurídica
+021000,Autônomo - pessoa física
+021100,Autônomo - cooperado
+030000,Outros
+040100,Outros
+040200,Outros
+05,Residente
+050000,Residente
+050100,Residente
+050101,Residente próprio
+050102,Residente subsidiado por outro ente/entidade
+06,Estagiário
+060000,Estagiário
+060100,Estagiário
+060101,Estagiário próprio
+060102,Estagiário subsidiado por outro ente/entidade
+07,Bolsista
+070000,Bolsista
+070100,Bolsista
+070101,Bolsista próprio
+070102,Bolsista subsidiado por outro ente/entidade
+08,Intermediado
+080000,Intermediado
+080100,Intermediado - empregado público celetista
+080200,Intermediado - temporário com prazo/período determinado
+080300,Intermediado - cargo comissionado
+080400,Intermediado - celetista
+080500,Intermediado - autônomo
+080501,Intermediado - autônomo
+080502,Intermediado - autônomo
+080600,Intermediado - cooperado
+080700,Intermediado - servidor público
+080701,Intermediado
+09,Informal
+090000,Informal
+090100,Informal - contratado verbalmente
+090200,Informal - voluntariado
+1,Vínculo empregatício
+10,Servidor público cedido para iniciativa privada
+100000,Servidor público cedido para iniciativa privada
+100100,Servidor público cedido para iniciativa privada - servidor público
+100200,Servidor público cedido para iniciativa privada - cargo comissionado
+100300,Servidor público cedido para iniciativa privada - empregado celetista
+2,Autônomo
+5,Residente
+6,Estagiário
+7,Bolsista
+8,Intermediado
+9,Informal

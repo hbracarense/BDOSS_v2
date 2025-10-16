@@ -1,0 +1,143 @@
+﻿codigo_servico_especializado;servico_especializado
+001;Audiologia
+002;Anatomia patológica/citopatologia
+003;Eletroencefalografia
+004;Serviço de nefrologia
+005;Orteses/proteses/meios auxiliares locomoção
+006;Endoscopia
+007;Farmácia
+008;Fisioterapia
+009;Hemodinâmica
+010;Hemoterapia
+011;Medicina nuclear
+012;Cardiologia
+013;Laboratórios clínicos
+014;Atenção psicossocial
+015;Quimioterapia
+016;Radiologia
+017;Radioterapia
+018;Reabilitação
+019;Tomografia computadorizada
+020;Ultrassonografia
+021;Emergência
+022;Ressonância magnética
+023;Autorizador de tratamento fora de domicílio
+024;Atençâo à tuberculose
+025;Busca internacional de doador de tecidos
+027;Atenção à saúde auditiva
+029;Triagem neonatal
+030;Programa de agentes comunitarios saude-pacs
+031;Programa de saude da familia-psf
+032;Controle e acompanhamento à gestação
+034;Odontologia
+035;Oftalmologia
+036;Atenção à saude do trabalhador
+037;Queimados
+038;At.saúde adol.confl.c/lei-reg.int/inter.prov
+046;Pneumologia
+050;Residencial terapêutico em saúde mental
+053;Regulação serviços de saúde
+054;Controle de tabagismo
+055;Regulação médica de urgências central samu192
+060;Urgência
+061;Vigilância epidemiológica
+062;Vigilância sanitária
+063;Centro de parto normal
+065;Atenção à saude no sistema penitenciario
+066;Cirurgia vascular
+067;Lacen
+068;Práticas integrativas e complementares
+100;Atenção à Saúde no Sistema Penitenciário
+101;Estratégia de Saúde da Família
+102;Estratégia de Agentes Comunitários de Saúde
+103;Serviço de Atendimento Móvel de Urgências
+104;Regulação Assistencial dos Serviços de Saúde
+105;Serviço de Atenção em Neurologia/ Neurocirurgia
+106;Serviço de Atenção à DST/HIV/AIDS
+107;Serviço de Atenção à Saúde Auditiva
+108;Atenção a Saúde do Trabalhador
+109;Serviço de Atendimento a Adolescentes em Conflito
+110;Serviço de Atenção a Saúde Reprodutiva
+111;Serviço de Atenção ao Paciente c/ Tuberculose
+112;Serviço de Atenção ao Pré-Natal, Parto e Nascimento
+113;Serviço de Atenção domiciliar
+114;Atenção especializada em Saúde Bucal
+115;Serviço de Atenção Psicossocial
+116;Serviço de Atenção Cardiovascular/ Cardiologia
+117;Serviço de Cirurgia Reparadora
+118;Serviço de Cirurgia Torácica
+119;Serviço de Controle de Tabagismo
+120;Serviço de Diagnóstico por Anatomia Patológica e /ou Citopatologia
+121;Serviço de Diagnóstico por Imagem
+122;Serviço de Diagnóstico por Métodos Gráficos/ Dinâmicos
+123;Serviço de Dispensação de Órtese, Prótese e Materiais especiais
+124;Serviço de endocrinologia
+125;Serviço de Farmácia
+126;Serviço de Fisioterapia
+127;Serviço de Atenção a Obesidade Grave
+128;Serviço de Hemoterapia
+129;Serviço de Laboratório de Histocompatiblidade
+130;Serviço de Atenção à doença Renal Crônica
+131;Serviço de Oftalmologia
+132;Serviço de Oncologia
+133;Serviço de Pneumologia
+134;Serviço de Práticas Integrativas e complementares
+135;Serviço de Reabilitação
+136;Serviço de Suporte Nutricional
+139;Serviço de Triagem Neonatal
+140;Serviço de Urgência e emergência
+141;Serviço de Vigilância em Saúde
+142;Serviço de Endoscopia
+143;Serviço Móvel de Urgência (exceto SAMU)
+144;Serviço Posto de Coleta de Materiais Biológicos
+145;Serviço de Diagnostico por Laboratorio Clínico
+146;Serviço de Videolaparoscopia
+147;Serviço de Apoio à Saúde da Família
+148;Hospital-Dia
+149;Transplante
+150;Cirurgia Vascular
+151;Medicina Nuclear
+152;Atenção à Saúde de Populações Indígenas
+153;Atenção Especializada no Processo Transexualizador
+154;Serviço de Banco de Tecidos
+155;Serviço de Traumatologia e Ortopedia
+156;Serviço de Atenção à Saúde de Pessoas Ostomizadas
+157;Servço de Laboratório de Prótese dentária
+158;Serviço de Atenção Integral em Hanseníase
+159;Atenção Primária
+160;Telessaúde
+161;Consultório na Rua
+162;Serviço de Terapia Intensiva
+163;Serviços de Cuidados Intermediários
+164;Órteses, Próteses e Meios Auxiliares de Locomoção em Reabilitação
+165;Serviço de Atenção às Pessoas em Situaçâo de Violência Sexual
+166;Serviço de Análise Laboratorial de Produtos Sujeios à Vigilância Sanitária
+167;Atendiimento Itinerante de Assistência e ensino em Saúde
+168;Atenção a Pessoa com Doenças Raras
+169;Atenção em Urologia
+170;Comissões e comitês
+171;Cuidados Paliativos
+173;Logística de Imunobiológicos
+174;Imunização
+500;Cardiologia - alta complexidade
+501;Ortopedia - alta complexidade
+502;Transplante
+503;Neurocirurgia - alta complexidade
+504;Oncologia - alta complexidade
+505;Má formação lábio palatal(buco maxilo facial)
+506;Implante coclear
+507;Polissonografia
+509;Atenção à epilepsia
+510;Cirurgia bariátrica
+512;Cuidados prolongados
+513;Parto de alto risco
+515;Planejamento familiar/esterilização
+517;Hospital-dia
+519;Vídeolaparoscopia
+520;Suporte nutricional
+522;Densitometria óssea
+523;Internação domiciliar
+524;Má formação crânio-facial(buco maxilo facial)
+525;Uti-móvel
+528;Atenção à dst/hiv/aids
+529;Alta complexidade em neurocirurgia

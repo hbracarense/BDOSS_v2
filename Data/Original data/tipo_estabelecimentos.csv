@@ -1,0 +1,28 @@
+﻿codigo_estabelecimento;tipo_estabelecimento
+001;Unidade Básica de Saúde
+002;Central de Gestão em Saúde
+003;Central de Regulação
+004;Central de Abastecimento
+005;Transplantes
+006;Hospital
+007;Centro de Assistência Obstetrícia
+008;Unidade de Pronto Atendimento
+009;Farmácia
+010;Hematologia
+011;Telessaúde
+012;Unidade de Atenção Domiciliar
+013;Pólo de Prevenção
+015;Unidade de Reabilitação
+016;Ambulatório
+017;Unidade de Atendimento Psicossocial
+018;Unidade de Apoio Diagnóstico
+019;Unidade de Terapias Especiais
+020;Prótese Dentária
+021;Vigilância em Zoonoses
+022;Laboratório de Saúde Pública
+023;Saúde do Trabalho
+024;Óbitos
+025;Centro de Imunização
+997;Outros
+998;Desativado
+999;Sem identificação
