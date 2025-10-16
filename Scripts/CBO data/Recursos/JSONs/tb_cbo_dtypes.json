@@ -1,0 +1,4 @@
+{
+	"codigo ": "types.VARCHAR(6)",
+	"titulo": "types.VARCHAR(200)",
+	"arquivo": "types.VARCHAR(50)"}

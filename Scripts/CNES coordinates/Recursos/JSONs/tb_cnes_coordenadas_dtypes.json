@@ -1,0 +1,6 @@
+{
+	"cnes": "types.VARCHAR(7)",
+	"nome_estabelecimento": "types.VARCHAR(300)",
+	"lat": "types.VARCHAR(20)",
+	"lon": "types.VARCHAR(20)",
+	"arquivo": "types.VARCHAR(50)"}
