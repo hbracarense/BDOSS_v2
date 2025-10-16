@@ -1,0 +1,67 @@
+import os
+import datetime
+import pandas as pd
+import sqlalchemy as db
+from general_functions import check_list, check_lower, json_to_dtypes
+from extraction_functions import extract_cnpj
+from transformation_functions import save_cnpj
+from data_reading import cnpj_data_import
+
+def create_engine(user, password, host, port, database_name):
+    db_url = f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{database_name}"
+    engine = db.create_engine(db_url, 
+                          isolation_level='AUTOCOMMIT'
+                         )
+    print('Engine created successfully!')
+    return engine
+
+def create_command(engine, path_home, sql_file):
+    with open(os.path.join(path_home, sql_file), 'r') as fd:
+        sql = fd.read()
+    with engine.connect() as connection:
+        connection.execute(db.text(sql))
+    print(f"{sql_file} created with success!")
+
+def create_all_schemas(engine, path_schemas):
+    sqls = os.listdir(path_schemas)
+    for sql in sqls:
+        create_command(engine, path_schemas, sql)
+    print('All schemas created with success.')
+
+def create_all_tables(engine, path_tables):
+    sqls = os.listdir(os.path.join(path_tables))
+    for sql in sqls:
+        create_command(engine, os.path.join(path_tables), sql)
+    print('All tables created with success.')
+
+def read_and_write_df_into_sql(path_abs, path_resources, path_json, json_file_name, folder_resources, file_data_name, file_name, url, days, token, path_exports, schema, table, engine):
+    file_name = file_name + datetime.datetime.now().strftime("%Y-%m")+'.csv'
+    try:
+        df = save_cnpj(extract_cnpj(url = url,
+                                    cnpjs = cnpj_data_import(path_abs, path_resources, folder_resources, file_data_name),
+                                    days = days,
+                                    token = token),
+                                    path_folder=os.path.join(path_exports, file_name))
+        df['arquivo'] = file_name
+    except Exception as e:
+        print(e)
+        return None
+    
+    try:
+        dtypes = json_to_dtypes(os.path.join(path_abs, path_resources, path_json, json_file_name))
+    except Exception as e:
+        print(e)
+        return None
+    try:
+        df.to_sql(name=table, 
+                con=engine,
+                if_exists='append',
+                index=False,
+                schema = schema,
+                dtype = dtypes
+                )
+        print('CNPJs inserted in table with success!')
+    except Exception as e:
+        print(e)
+        return None        
+    

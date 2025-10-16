@@ -1,0 +1,4 @@
+{
+	"codigo_estabelecimento": "types.VARCHAR(3)",
+	"tipo_estabelecimento": "types.VARCHAR(100)",
+	"arquivo": "types.VARCHAR(50)"}
