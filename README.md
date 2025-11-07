@@ -2,8 +2,9 @@
 
 **Author:** Henrique Bracarense  
 **Institutional partners:** Ministry of Management and Innovation in Public Services (MGI) and Federal Court of Accounts (TCU)  
-**Project:** National update of the census of Social Health Organizations (OSS)  
-**Dashboard:** [Power BI Report (PBIX)](https://drive.proton.me/urls/YBQQKC4E94#IpCV6Gv3PsKb)  
+**Project:** National update of the census of Social Health Organizations (OSS)
+**Website:** https://www.bdoss.com.br
+**Dashboard:** [Power BI Report (PBIX)](https://drive.proton.me/urls/WQAZX08RKC#nheTHJ5jxZGx)  
 **Languages:** Python, SQL  
 **Database:** PostgreSQL  
 **Scope:** Automated reconstruction and enrichment of the BDOSS (Base das Organizações Sociais de Saúde)
@@ -83,7 +84,7 @@ Script: `main.py`
 - Final tables are used as the backend for the **Power BI BDOSS+ dashboard**.  
 - Includes national, state, and municipal-level summaries.  
 
-**Dashboard:** [Download PBIX](https://drive.proton.me/urls/YBQQKC4E94#IpCV6Gv3PsKb)
+**Dashboard:** [Download PBIX](https://drive.proton.me/urls/WQAZX08RKC#nheTHJ5jxZGx)
 
 ---
 
