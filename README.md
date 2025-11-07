@@ -3,8 +3,8 @@
 **Author:** Henrique Bracarense  
 **Institutional partners:** Ministry of Management and Innovation in Public Services (MGI) and Federal Court of Accounts (TCU)  
 **Project:** National update of the census of Social Health Organizations (OSS)
-**Website:** https://www.bdoss.com.br
-**Dashboard:** [Power BI Report (PBIX)](https://drive.proton.me/urls/WQAZX08RKC#nheTHJ5jxZGx)  
+**Website:** https://www.bdoss.com.br 
+**Dashboard:** [Power BI Report (PBIX)](https://drive.proton.me/urls/WQAZX08RKC#nheTHJ5jxZGx)   
 **Languages:** Python, SQL  
 **Database:** PostgreSQL  
 **Scope:** Automated reconstruction and enrichment of the BDOSS (Base das Organizações Sociais de Saúde)
